@@ -19,10 +19,4 @@
 ### Languages and Tools:
 [![My Skills](https://skillicons.dev/icons?i=flutter,dart,firebase,github,git,postman,figma,xd&perline=5)](https://skillicons.dev)
 
-![Ahmed's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ahmed-Aziz-55&show_icons=true&theme=dark)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmed-Aziz-55&theme=dark)
-
-
-
 <br>
