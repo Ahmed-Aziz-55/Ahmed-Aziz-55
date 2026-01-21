@@ -6,10 +6,9 @@
   
   <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
   
-  [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-FF6B6B?style=for-the-badge&logo=vercel&logoColor=white)](https://m-wasif.netlify.app)
-  [![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-4ECDC4?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-wasif-%F0%9F%87%B5%F0%9F%87%B0-b97577347)
-  [![LeetCode](https://img.shields.io/badge/🧩_LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/MuhammadWasif/)
-  [![Email](https://img.shields.io/badge/📧_Email-FF9F1C?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muhammadwasifshah629@gmail.com)
+  [![Portfolio]()
+  [![LinkedIn](http://www.linkedin.com/in/ahmed-a-04b457298)
+  [![Email](https://img.shields.io/badge/📧_Email-FF9F1C?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmedaziz55223@gmail.com)
 
 </div>
 
@@ -39,7 +38,6 @@ class MuhammadWasif extends FlutterDeveloper {
 
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=Flutter&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 </div>
