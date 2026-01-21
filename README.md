@@ -6,8 +6,8 @@
   
   <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
   
-  [![Portfolio]()
-  [![LinkedIn](http://www.linkedin.com/in/ahmed-a-04b457298)
+  [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-FF6B6B?style=for-the-badge&logo=vercel&logoColor=white)]()
+  [![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-4ECDC4?style=for-the-badge&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/ahmed-a-04b457298)
   [![Email](https://img.shields.io/badge/📧_Email-FF9F1C?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmedaziz55223@gmail.com)
 
 </div>
@@ -63,10 +63,9 @@ class MuhammadWasif extends FlutterDeveloper {
 </div>
 ### **🚀 Ready to Collaborate?**
 
-[![Portfolio](https://img.shields.io/badge/🌐_My_Portfolio-Explore_My_Work-FF6B6B?style=for-the-badge&logo=vercel)](https://m-wasif.netlify.app)
-[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-Professional_Network-4ECDC4?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/muhammad-wasif-%F0%9F%87%B5%F0%9F%87%B0-b97577347)
-[![LeetCode](https://img.shields.io/badge/🧩_LeetCode-Follow_My_Journey-FFA116?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/MuhammadWasif/)
-[![Email](https://img.shields.io/badge/📧_Email-Let's_Discuss_Projects-FF9F1C?style=for-the-badge&logo=gmail)](mailto:muhammadwasifshah629@gmail.com)
+[![Portfolio](https://img.shields.io/badge/🌐_My_Portfolio-Explore_My_Work-FF6B6B?style=for-the-badge&logo=vercel)]()
+[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-Professional_Network-4ECDC4?style=for-the-badge&logo=linkedin)](http://www.linkedin.com/in/ahmed-a-04b457298)
+[![Email](https://img.shields.io/badge/📧_Email-Let's_Discuss_Projects-FF9F1C?style=for-the-badge&logo=gmail)](mailto:ahmedaziz55223@gmail.com)
 
 ### **🔥 Currently Available For:**
 - 📱 **Flutter Mobile App Development**
