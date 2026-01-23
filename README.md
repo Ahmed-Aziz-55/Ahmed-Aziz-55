@@ -5,10 +5,12 @@
   
   <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
   
+  ### **Connect with me:**
+  
   [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-FF6B6B?style=for-the-badge&logo=vercel&logoColor=white)](https://ahmed-profolio.netlify.app)
   [![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-4ECDC4?style=for-the-badge&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/ahmed-a-04b457298)
   
-  [![Email](https://img.shields.io/badge/📧_Email-FF9F1C?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmedaziz55223@gmail.com)
+  **📧 Email:** [ahmedaziz55223@gmail.com](mailto:ahmedaziz55223@gmail.com)
 
 </div>
 
