@@ -8,9 +8,12 @@
   
   [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-FF6B6B?style=for-the-badge&logo=vercel&logoColor=white)](https://ahmed-profolio.netlify.app)
   [![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-4ECDC4?style=for-the-badge&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/ahmed-a-04b457298)
- <a href="mailto:ahmedaziz55223@gmail.com">
-  <img src="https://img.shields.io/badge/📧_Email-FF9F1C?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
+<p align="center">
+  <a href="mailto:ahmedaziz55223@gmail.com">
+    <img src="https://img.shields.io/badge/📧_Email-FF9F1C?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+</p>
+
 
 </div>
 
