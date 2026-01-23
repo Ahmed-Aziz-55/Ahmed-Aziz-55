@@ -1,5 +1,4 @@
 # 👋 Hello, I'm Ahmed Aziz
-
 <div align="center">
   
   ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=🚀+Flutter+App+Developer;📱+Mobile+UI%2FUX+Specialist;🧩+💡+Problem+Solving+Expert;⚡+Building+Scalable+Solutions)
@@ -9,11 +8,7 @@
   [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-FF6B6B?style=for-the-badge&logo=vercel&logoColor=white)](https://ahmed-profolio.netlify.app)
   [![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-4ECDC4?style=for-the-badge&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/ahmed-a-04b457298)
   
-  <p align="center">
-    <a href="mailto:ahmedaziz55223@gmail.com">
-      <img src="https://img.shields.io/badge/📧_Email-FF9F1C?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-    </a>
-  </p>
+  [![Email](https://img.shields.io/badge/📧_Email-FF9F1C?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmedaziz55223@gmail.com)
 
 </div>
 
