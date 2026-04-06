@@ -8,7 +8,7 @@
   ### **Connect with me:**
   
   [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-FF6B6B?style=for-the-badge&logo=vercel&logoColor=white)](https://ahmed-profolio.netlify.app)
-  [![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-4ECDC4?style=for-the-badge&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/ahmed-a-04b457298)
+  [![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-4ECDC4?style=for-the-badge&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/ahmedaziz-flutter)
   
   **📧 Email:** [ahmedaziz55223@gmail.com](mailto:ahmedaziz55223@gmail.com)
 
