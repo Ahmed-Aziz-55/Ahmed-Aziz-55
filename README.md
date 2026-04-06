@@ -19,7 +19,7 @@
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
 ```dart
-class MuhammadWasif extends FlutterDeveloper {
+class Ahmed extends FlutterDeveloper {
   String name = "Ahmed Aziz";
   String location = "Rawalpindi, Pakistan 🇵🇰";
   List<String> currentFocus = [
@@ -66,7 +66,7 @@ class MuhammadWasif extends FlutterDeveloper {
 ### **🚀 Ready to Collaborate?**
 
 [![Portfolio](https://img.shields.io/badge/🌐_My_Portfolio-Explore_My_Work-FF6B6B?style=for-the-badge&logo=vercel)]()
-[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-Professional_Network-4ECDC4?style=for-the-badge&logo=linkedin)](http://www.linkedin.com/in/ahmed-a-04b457298)
+[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-Professional_Network-4ECDC4?style=for-the-badge&logo=linkedin)](http://www.linkedin.com/in/ahmedaziz-flutter)
 [![Email](https://img.shields.io/badge/📧_Email-Let's_Discuss_Projects-FF9F1C?style=for-the-badge&logo=gmail)](mailto:ahmedaziz55223@gmail.com)
 
 ### **🔥 Currently Available For:**
